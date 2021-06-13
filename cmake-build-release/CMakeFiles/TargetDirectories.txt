@@ -1,0 +1,4 @@
+/home/master/projects/augment_camera/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/master/projects/augment_camera/cmake-build-release/CMakeFiles/augment_camera.dir
+/home/master/projects/augment_camera/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/master/projects/augment_camera/cmake-build-release/CMakeFiles/augment_camera_autogen.dir
