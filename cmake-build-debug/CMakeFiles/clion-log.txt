@@ -1,7 +1,0 @@
-/home/master/JetBrains_CLion_2019.1_Linux/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/master/projects/augment_camera
- 
-CMAKE IN DEBUG MODE
- 
--- Configuring done
--- Generating done
--- Build files have been written to: /home/master/projects/augment_camera/cmake-build-debug
